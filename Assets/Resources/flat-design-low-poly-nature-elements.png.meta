@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: c9ec530c595239240b40af423ed198db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1107827893518650668
+    second: flat-design-low-poly-nature-elements_0
+  - first:
+      213: 2874177285820738958
+    second: flat-design-low-poly-nature-elements_1
+  - first:
+      213: 1294298934034261125
+    second: flat-design-low-poly-nature-elements_2
+  - first:
+      213: 7564055003316721706
+    second: flat-design-low-poly-nature-elements_3
+  - first:
+      213: 2349696545558529766
+    second: flat-design-low-poly-nature-elements_4
+  - first:
+      213: -6505466087416336738
+    second: flat-design-low-poly-nature-elements_5
+  - first:
+      213: 4828256577244366438
+    second: flat-design-low-poly-nature-elements_6
+  - first:
+      213: -2906800461076765921
+    second: flat-design-low-poly-nature-elements_7
+  - first:
+      213: 8852169881474815622
+    second: flat-design-low-poly-nature-elements_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flat-design-low-poly-nature-elements_0
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1356
+        width: 541
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b3df89c65cb47429589de9b7e91312
+      internalID: -364889700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-low-poly-nature-elements_1
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1356
+        width: 374
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499c64cdb30264d429204be865056804
+      internalID: -1560550917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-low-poly-nature-elements_2
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1328
+        width: 415
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0d73a4c1ff5a543bbab3eead675567
+      internalID: -1954096301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-low-poly-nature-elements_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 790
+        width: 411
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c01af3bacdfa9d4692a88032b4835c2
+      internalID: 1222305352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-low-poly-nature-elements_4
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 790
+        width: 484
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de7f0b9d596b5045aff3c898ecef8e7
+      internalID: 1872849052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-low-poly-nature-elements_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 790
+        width: 494
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f559c4fae26ea6d459b66ba6885b155f
+      internalID: 1822527572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-low-poly-nature-elements_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 231
+        width: 564
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ff61b41172f3f41a4854bea0f7908e
+      internalID: -4693029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-low-poly-nature-elements_7
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 231
+        width: 455
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f988b251f95534bafdc247c581d052
+      internalID: 1961484259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-low-poly-nature-elements_8
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 228
+        width: 480
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df1c8b2cd0ee1f4ebcd6fd697235908
+      internalID: 15752493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1b740fba05b9cba46acd22aa78a9153c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flat-design-low-poly-nature-elements_0: -364889700
+      flat-design-low-poly-nature-elements_1: -1560550917
+      flat-design-low-poly-nature-elements_2: -1954096301
+      flat-design-low-poly-nature-elements_3: 1222305352
+      flat-design-low-poly-nature-elements_4: 1872849052
+      flat-design-low-poly-nature-elements_5: 1822527572
+      flat-design-low-poly-nature-elements_6: -4693029
+      flat-design-low-poly-nature-elements_7: 1961484259
+      flat-design-low-poly-nature-elements_8: 15752493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
